@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-224-Calculator", "LC-224-Calculator\LC-224-Calculator.vcxproj", "{68741410-CC7B-4B31-B7B2-3835B31EDA5B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-1-TwoSum", "LC-1-TwoSums\LC-1-TwoSums.vcxproj", "{AC1ABD52-3E8A-4C76-9875-AE7CF294D0BF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-1-TwoSums", "LC-1-TwoSums\LC-1-TwoSums.vcxproj", "{AC1ABD52-3E8A-4C76-9875-AE7CF294D0BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-2-AddTwoNumbers", "LC-2-AddTwoNumbers\LC-2-AddTwoNumbers.vcxproj", "{9E180207-0128-4D6D-8325-B72338B2619D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{AC1ABD52-3E8A-4C76-9875-AE7CF294D0BF}.Release|x64.Build.0 = Release|x64
 		{AC1ABD52-3E8A-4C76-9875-AE7CF294D0BF}.Release|x86.ActiveCfg = Release|Win32
 		{AC1ABD52-3E8A-4C76-9875-AE7CF294D0BF}.Release|x86.Build.0 = Release|Win32
+		{9E180207-0128-4D6D-8325-B72338B2619D}.Debug|x64.ActiveCfg = Debug|x64
+		{9E180207-0128-4D6D-8325-B72338B2619D}.Debug|x64.Build.0 = Debug|x64
+		{9E180207-0128-4D6D-8325-B72338B2619D}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E180207-0128-4D6D-8325-B72338B2619D}.Debug|x86.Build.0 = Debug|Win32
+		{9E180207-0128-4D6D-8325-B72338B2619D}.Release|x64.ActiveCfg = Release|x64
+		{9E180207-0128-4D6D-8325-B72338B2619D}.Release|x64.Build.0 = Release|x64
+		{9E180207-0128-4D6D-8325-B72338B2619D}.Release|x86.ActiveCfg = Release|Win32
+		{9E180207-0128-4D6D-8325-B72338B2619D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
