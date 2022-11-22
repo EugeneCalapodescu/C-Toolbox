@@ -62,7 +62,7 @@ int myAtoi(std::string s)
     while (i < s.size())
     {
         if (!isdigit(s[i]))
-            return sign * result;
+            return (int)(sign * result);
 
         result = 10 * result + (s[i] - '0');
 
@@ -82,7 +82,7 @@ int myAtoi(std::string s)
     else if (sign * result < INT_MIN)
         return INT_MIN;
 
-    return sign * result;
+    return (int)(sign * result);
 }
 
 int main()

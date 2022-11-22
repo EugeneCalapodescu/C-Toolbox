@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-2-AddTwoNumbers", "LC-2-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-8-atoi", "LC-8-atoi\LC-8-atoi.vcxproj", "{DF322FEC-1CB5-4172-BCA2-7867E8D2D711}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-1926-NearestExitFromEntranceInMaze", "LC-1926-NearestExitFromEntranceInMaze\LC-1926-NearestExitFromEntranceInMaze.vcxproj", "{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{DF322FEC-1CB5-4172-BCA2-7867E8D2D711}.Release|x64.Build.0 = Release|x64
 		{DF322FEC-1CB5-4172-BCA2-7867E8D2D711}.Release|x86.ActiveCfg = Release|Win32
 		{DF322FEC-1CB5-4172-BCA2-7867E8D2D711}.Release|x86.Build.0 = Release|Win32
+		{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F}.Debug|x64.ActiveCfg = Debug|x64
+		{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F}.Debug|x64.Build.0 = Debug|x64
+		{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F}.Debug|x86.Build.0 = Debug|Win32
+		{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F}.Release|x64.ActiveCfg = Release|x64
+		{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F}.Release|x64.Build.0 = Release|x64
+		{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F}.Release|x86.ActiveCfg = Release|Win32
+		{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
