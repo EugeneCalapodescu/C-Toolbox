@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-79-WordSearch", "LC-79-W
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-907-SumOfSubarraysMinimums", "LC-907-SumOfSubarraysMinimums\LC-907-SumOfSubarraysMinimums.vcxproj", "{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-1235-MaximumProfitInJobScheduling", "LC-1235-MaximumProfitInJobScheduling\LC-1235-MaximumProfitInJobScheduling.vcxproj", "{31268698-5CA4-4D25-BDAC-B787FEB19C5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Release|x64.Build.0 = Release|x64
 		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Release|x86.ActiveCfg = Release|Win32
 		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Release|x86.Build.0 = Release|Win32
+		{31268698-5CA4-4D25-BDAC-B787FEB19C5A}.Debug|x64.ActiveCfg = Debug|x64
+		{31268698-5CA4-4D25-BDAC-B787FEB19C5A}.Debug|x64.Build.0 = Debug|x64
+		{31268698-5CA4-4D25-BDAC-B787FEB19C5A}.Debug|x86.ActiveCfg = Debug|Win32
+		{31268698-5CA4-4D25-BDAC-B787FEB19C5A}.Debug|x86.Build.0 = Debug|Win32
+		{31268698-5CA4-4D25-BDAC-B787FEB19C5A}.Release|x64.ActiveCfg = Release|x64
+		{31268698-5CA4-4D25-BDAC-B787FEB19C5A}.Release|x64.Build.0 = Release|x64
+		{31268698-5CA4-4D25-BDAC-B787FEB19C5A}.Release|x86.ActiveCfg = Release|Win32
+		{31268698-5CA4-4D25-BDAC-B787FEB19C5A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
