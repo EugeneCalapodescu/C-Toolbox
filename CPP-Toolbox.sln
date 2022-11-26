@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-36-ValidSudoku", "LC-36-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-79-WordSearch", "LC-79-WordSearch\LC-79-WordSearch.vcxproj", "{44239C0E-F3F1-4623-96CD-A8BD4DE076E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-907-SumOfSubarraysMinimums", "LC-907-SumOfSubarraysMinimums\LC-907-SumOfSubarraysMinimums.vcxproj", "{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{44239C0E-F3F1-4623-96CD-A8BD4DE076E2}.Release|x64.Build.0 = Release|x64
 		{44239C0E-F3F1-4623-96CD-A8BD4DE076E2}.Release|x86.ActiveCfg = Release|Win32
 		{44239C0E-F3F1-4623-96CD-A8BD4DE076E2}.Release|x86.Build.0 = Release|Win32
+		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Debug|x64.ActiveCfg = Debug|x64
+		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Debug|x64.Build.0 = Debug|x64
+		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Debug|x86.Build.0 = Debug|Win32
+		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Release|x64.ActiveCfg = Release|x64
+		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Release|x64.Build.0 = Release|x64
+		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Release|x86.ActiveCfg = Release|Win32
+		{A12E612F-5D51-4D7A-9191-B4EA39DB71EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

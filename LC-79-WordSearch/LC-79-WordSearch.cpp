@@ -19,7 +19,7 @@ using namespace std;
 
 bool exist(vector<vector<char>>& board, string& word, int r, int c, int start)
 {
-	std::vector<std::pair<int, int>> directions = { {-1, 0}, {1, 0}, {0, -1}, {0, 1} };
+	static std::vector<std::pair<int, int>> directions = { {-1, 0}, {1, 0}, {0, -1}, {0, 1} };
 
 	if (word.size() == start)
 		return true;
