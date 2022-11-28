@@ -11,7 +11,6 @@
 
 
 	Example 1:
-
 		Input: startTime = [1,2,3,3], endTime = [3,4,5,6], profit = [50,10,40,70]
 		Output: 120
 		Explanation: The subset chosen is the first and fourth job.
