@@ -41,9 +41,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Leet Code", "Leet Code", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graphs", "Graphs\Graphs.vcxproj", "{72BCBF68-3940-4211-9E54-5A8C229ABBBA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-206-ReverseLinkedList", "LeetCode\LC-206-ReverseLinkedList\LC-206-ReverseLinkedList.vcxproj", "{9A85B42A-9A51-4455-A81F-F6CC961EF97D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-0206-ReverseLinkedList", "LeetCode\LC-0206-ReverseLinkedList\LC-0206-ReverseLinkedList.vcxproj", "{9A85B42A-9A51-4455-A81F-F6CC961EF97D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-21-MergeTwoSortedLists", "LeetCode\LC-21-MergeTwoSortedLists\LC-21-MergeTwoSortedLists.vcxproj", "{951098B2-62D3-43E9-ADFD-C9C731B75EEC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-0021-MergeTwoSortedLists", "LeetCode\LC-0021-MergeTwoSortedLists\LC-0021-MergeTwoSortedLists.vcxproj", "{951098B2-62D3-43E9-ADFD-C9C731B75EEC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC-0046-Permutations", "LeetCode\LC-0046-Permutations\LC-0046-Permutations.vcxproj", "{1A3D34B5-7303-4255-974B-146046A326D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,14 @@ Global
 		{951098B2-62D3-43E9-ADFD-C9C731B75EEC}.Release|x64.Build.0 = Release|x64
 		{951098B2-62D3-43E9-ADFD-C9C731B75EEC}.Release|x86.ActiveCfg = Release|Win32
 		{951098B2-62D3-43E9-ADFD-C9C731B75EEC}.Release|x86.Build.0 = Release|Win32
+		{1A3D34B5-7303-4255-974B-146046A326D6}.Debug|x64.ActiveCfg = Debug|x64
+		{1A3D34B5-7303-4255-974B-146046A326D6}.Debug|x64.Build.0 = Debug|x64
+		{1A3D34B5-7303-4255-974B-146046A326D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A3D34B5-7303-4255-974B-146046A326D6}.Debug|x86.Build.0 = Debug|Win32
+		{1A3D34B5-7303-4255-974B-146046A326D6}.Release|x64.ActiveCfg = Release|x64
+		{1A3D34B5-7303-4255-974B-146046A326D6}.Release|x64.Build.0 = Release|x64
+		{1A3D34B5-7303-4255-974B-146046A326D6}.Release|x86.ActiveCfg = Release|Win32
+		{1A3D34B5-7303-4255-974B-146046A326D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -237,6 +247,7 @@ Global
 		{C6E6CD0D-2D5F-41D7-90C4-EEB258E6289F} = {826E37ED-85EE-45A2-BED2-03D1EC8B4C1D}
 		{9A85B42A-9A51-4455-A81F-F6CC961EF97D} = {826E37ED-85EE-45A2-BED2-03D1EC8B4C1D}
 		{951098B2-62D3-43E9-ADFD-C9C731B75EEC} = {826E37ED-85EE-45A2-BED2-03D1EC8B4C1D}
+		{1A3D34B5-7303-4255-974B-146046A326D6} = {826E37ED-85EE-45A2-BED2-03D1EC8B4C1D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E85D7764-4102-40CB-B311-86BA5A443FCA}

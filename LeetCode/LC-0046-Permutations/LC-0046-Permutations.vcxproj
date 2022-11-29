@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{951098b2-62d3-43e9-adfd-c9c731b75eec}</ProjectGuid>
-    <RootNamespace>LC21MergeTwoSortedLists</RootNamespace>
+    <ProjectGuid>{1a3d34b5-7303-4255-974b-146046a326d6}</ProjectGuid>
+    <RootNamespace>LC0046Permutations</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="LC-0021-MergeTwoSortedLists.cpp" />
+    <ClCompile Include="LC-0046-Permutations.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
