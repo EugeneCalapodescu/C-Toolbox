@@ -58,7 +58,7 @@ vector<vector<int>> permute(vector<int>& nums, int N)
 		arr.push_back(nums[N - 1]);
 		result.push_back(arr);
 
-		for (int i = arr.size() - 1; i > 0; i--)
+		for (size_t i = arr.size() - 1; i > 0; i--)
 		{
 			std::swap(arr[i - 1], arr[i]);
 			result.push_back(arr);
