@@ -43,7 +43,7 @@ int main()
 
 	// connectivity test
 	std::cout << "#############################################\n";
-	std::cout << "Connectivity checks\n";
+	std::cout << "Connectivity Test\n";
 	std::cout << "#############################################\n";
 	graph = { { {"a", "b"}, {"b", "c"}}, GraphType::Directed };
 	std::cout << "graph: " << graph << "\n";
