@@ -27,10 +27,6 @@ public:
 	}
 
 	friend std::ostream& operator<<(std::ostream& os, const Graph& graph);
-
-	std::string DFS(const std::string& start) const;
-	std::string BFS(const std::string& start) const;
-
 };
 
 #endif
