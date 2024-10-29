@@ -61,7 +61,7 @@ int trap(vector<int>& height)
     if (height.size() <= 2)
         return 0;
 
-    int N = height.size();
+    int N = (int) height.size();
     vector<int> L(N), R(N);
 
     L[0] = 0;

@@ -21,18 +21,18 @@ struct ListNode {
  
 ListNode* reverseList(ListNode* head) 
 {
-    ListNode* r = NULL;
+    ListNode* previous = NULL;
 
     while(head)
     {
         auto rr = head;
         head = head->next;
 
-        rr->next = r;
-        r = rr;
+        rr->next = previous;
+        previous = rr;
     }
 
-    return r;
+    return previous;
  }
 
  int main()
